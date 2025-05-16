@@ -1,0 +1,24 @@
+{
+  "name": "form-handler-backend",
+  "version": "1.0.0",
+  "description": "This is the backend of the form handler(College Campus) Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODE-CREW24/Form-handler-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/CODE-CREW24/Form-handler-backend/issues"
+  },
+  "homepage": "https://github.com/CODE-CREW24/Form-handler-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
